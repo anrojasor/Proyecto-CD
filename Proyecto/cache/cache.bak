@@ -1,0 +1,7 @@
+'User: Which are the 5 happiest countries?6058c1c820b73858e13ae652822f976aaa3a9c34a59ed9ca811fff27d9ebc532', (0, 1300)
+'User: Show a plot for ICE Brent 01M49fc249d70670b9a247bf76ba188b25d05bb6e6db589e6458d49681c816f363b', (1536, 1374)
+'User: drop the second and the fourth colums49fc249d70670b9a247bf76ba188b25d05bb6e6db589e6458d49681c816f363b', (3072, 928)
+'User: show only the first column49fc249d70670b9a247bf76ba188b25d05bb6e6db589e6458d49681c816f363b', (4096, 916)
+'User: show a plot of 202049fc249d70670b9a247bf76ba188b25d05bb6e6db589e6458d49681c816f363b', (5120, 1390)
+'User: Crea un gráfico únicamente para ICE Brent 01M y únicamente para el año 202049fc249d70670b9a247bf76ba188b25d05bb6e6db589e6458d49681c816f363b', (6656, 1516)
+'User: Crea un gráfico de autocorrelación para ICE Brent 01M49fc249d70670b9a247bf76ba188b25d05bb6e6db589e6458d49681c816f363b', (8192, 1360)
